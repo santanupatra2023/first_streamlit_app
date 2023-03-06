@@ -1,4 +1,8 @@
-import streamlit
+import antigravity
 
-streamlit.title('My parents new healthy diner')
+def main():
+    antigravity.fly()
+
+if __name__ == '__main__':
+    main()
 
