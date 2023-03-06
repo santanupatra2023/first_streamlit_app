@@ -1,7 +1,7 @@
-import antigravity
+import streamlit
 
 def main():
-    antigravity.fly()
+    streamlit.fly()
 
 if __name__ == '__main__':
     main()
